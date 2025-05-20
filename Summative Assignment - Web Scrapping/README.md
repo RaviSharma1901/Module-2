@@ -30,11 +30,11 @@ __Objectives & Analysis__
 __How to Run the Project__
 
 1. Clone the repository:
-     git clone https://github.com/RaviSharma1901/Module-2
+     *git clone https://github.com/RaviSharma1901/Module-2*
 2. Install dependencies:
-     pip install pandas requests beautifulsoup4 matplotlib seaborn
-3. Run
-     Numerical_Programming_in_Python_Web_Scraping.ipynb in Jupyter Notebook to execute scraping and analysis
+     *pip install pandas requests beautifulsoup4 matplotlib seaborn*
+3. Run     
+     __Numerical_Programming_in_Python_Web_Scraping.ipynb__ in Jupyter Notebook to execute scraping and analysis
 
 __View Project on GitHub__
 
