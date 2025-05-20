@@ -52,6 +52,6 @@ __Future Work__
 * Create an interactive dashboard to visualize key findings and improve data interpretation.
 
 __Contact__
-* Email: [ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)
+* **Email**: [ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ravi-sharma-ab8ba17a/)  
 * [GitHub Profile](https://github.com/RaviSharma1901)
