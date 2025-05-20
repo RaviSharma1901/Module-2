@@ -26,12 +26,14 @@ __Results & Insights__
 * Uncovered pricing impact on customer behavior.
 
 __How to Run the Project__
-* Clone the repository which contains multiple projects:            
-       *git clone https://github.com/RaviSharma1901/Module-2/*
+* Clone the repository which contains multiple projects:
+            
+       git clone https://github.com/RaviSharma1901/Module-2/
                   
-       *cd Module-2/"Exploratory Data Analysis(EDA) Project"*           
+       cd Module-2/"Exploratory Data Analysis(EDA) Project"         
 * Install necessary libraries:
-       *pip install -r requirements.txt*
+  
+       pip install -r requirements.txt
 * Run:    
        *Open and run __Hotel_Booking_Analysis.ipynb__ in Jupyter Notebook.*
 
