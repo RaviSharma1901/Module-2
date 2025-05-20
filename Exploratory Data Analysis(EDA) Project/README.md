@@ -1,4 +1,4 @@
-# Module-2
+# Module-2 [EDA - Capstone Project]
 Web Scrapping, Data Wrangling, Data Analysis 
 
 ## Hotel Booking Exploratory Data Analysis (EDA)
