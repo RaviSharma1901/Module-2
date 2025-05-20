@@ -5,7 +5,7 @@
 __Project Overview__    
 This project focuses on web scraping techniques to extract and analyze movie and TV show data. Using Python and BeautifulSoup, we collect structured information from entertainment websites and conduct exploratory data analysis (EDA) to uncover trends in ratings, genres, and viewer preferences.
 
-__Dataset Overview__    
+__Dataset Overview__      
 * IMDB_Rating_Movie_Tv_Show_Data.csv – IMDb ratings for movies and TV shows
 * Last_2_Year_Movie_Tv_Show_Data.csv – Movies released in the last two years
 * Movie_Data.csv – Collection of general movie-related attributes
