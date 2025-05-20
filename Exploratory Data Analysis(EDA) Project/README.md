@@ -26,9 +26,9 @@ __Results & Insights__
 * Uncovered pricing impact on customer behavior.
 
 __How to Run the Project__
-* Clone the repository which contains multiple projects:
-       *git clone https://github.com/RaviSharma1901/Module-2/*            
-       *cd Module-2/"Exploratory Data Analysis(EDA) Project"*  
+* Clone the repository which contains multiple projects:            
+       *git clone https://github.com/RaviSharma1901/Module-2/*                  
+       *cd Module-2/"Exploratory Data Analysis(EDA) Project"*  - The quotation marks necessary because the folder name contains spaces and special characters.            
 * Install necessary libraries:
        *pip install -r requirements.txt*
 * Run:    
