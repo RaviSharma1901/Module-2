@@ -21,9 +21,12 @@ __Technologies Used__
 * **Jupyter Notebook** (for analysis documentation)
 
 __Results & Insights__
-* Found that __peak booking seasons__ significantly affect cancellation rates.
-* Identified preferred room types based on customer demographics.
-* Uncovered pricing impact on customer behavior.
+- **Booking Patterns**: City Hotel generates **higher revenue**, with **60% of total bookings**. Peak seasons (**July–August**) show **37% higher demand**.  
+- **Pricing Impact**: A **12% price increase** results in **18% higher cancellation rates**, showing a strong correlation.  
+- **Guest Loyalty**: Repeat guests have **45% lower cancellation rates** than new customers, particularly in **corporate bookings**.  
+- **Geographic Trends**: **Portugal & Great Britain** account for **53%** of all bookings, with **seasonal preferences**.  
+- **Stay Duration**: **68% of guests** prefer **short stays (1-4 days)**, with **length of stay decreasing as room rates increase**.  
+- **Channel Performance**: **Corporate bookings** yield the **highest guest retention (37% repeat rate)**, while **travel agency bookings** experience **the highest cancellations (31%)**.  
 
 __How to Run the Project__
 * Clone the repository which contains multiple projects:
