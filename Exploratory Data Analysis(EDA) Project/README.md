@@ -6,13 +6,14 @@ __Project Overview__
 This project analyzes hotel booking data to uncover patterns in customer preferences, cancellation rates, seasonal trends, and other key insights. Using Python and data visualization techniques, we aim to identify factors influencing booking behavior and optimize hotel management decisions.
 
 __DataSet__
-* Hotel Booking.csv            
-The analysis is based on **Hotel Booking.csv**, which contains detailed booking records, including:
+         
+*The analysis is based on **Hotel Booking.csv**, which contains detailed booking records, including:*            
 - **Booking details** – Hotel type, lead time, arrival date, and length of stay  
 - **Customer demographics** – Country, market segment, and repeat guest information  
 - **Pricing & revenue** – Average Daily Rate (ADR), room type, and booking costs  
-- **Cancellation trends** – Whether a booking was canceled, and influencing factors  
-This dataset helps uncover key trends in **booking behavior, cancellations, guest preferences, and revenue patterns**, guiding better business decisions.  
+- **Cancellation trends** – Whether a booking was canceled, and influencing factors
+ 
+*This dataset helps uncover key trends in **booking behavior, cancellations, guest preferences, and revenue patterns**, guiding better business decisions.* 
 
 __Key Objective__
 * Analyze __booking trends__ over different time periods.
