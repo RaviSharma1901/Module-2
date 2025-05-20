@@ -39,7 +39,7 @@ __Results & Insights__
 
 __How to Run the Project__
 
-Open and run Hotel_Booking_Analysis.ipynb in Jupyter Notebook.
+Open and run __Hotel_Booking_Analysis.ipynb__ in Jupyter Notebook.
 
 __View Project on GitHub__
 
