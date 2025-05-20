@@ -28,11 +28,12 @@ __Results & Insights__
 * Uncovered pricing impact on customer behavior.
 
 __How to Run the Project__
-1. Clone the repository:
-       *git clone https://github.com/RaviSharma1901/Module-2/*    
-2. Install necessary libraries:
+* Clone the repository:
+       *git clone https://github.com/RaviSharma1901/Module-2/*
+       *cd Module-2/*  
+* Install necessary libraries:
        *pip install -r requirements.txt*
-3. Run:    
+* Run:    
        *Open and run __Hotel_Booking_Analysis.ipynb__ in Jupyter Notebook.*
 
 __Future Work__
