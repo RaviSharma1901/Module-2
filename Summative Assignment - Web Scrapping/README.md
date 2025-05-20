@@ -15,37 +15,26 @@ __Dataset Overview__
 
 __Technologies Used__
 
-*Python – Data Processing
-
+* Python – Data Processing
 * BeautifulSoup & Requests – Web Scraping
-
 * Pandas – Data Manipulation
-
 * Matplotlib & Seaborn – Data Visualization
 
 __Objectives & Analysis__
 
 * Scrape movie and TV show data from entertainment websites
-
 * Process and clean raw data for structured analysis
-
 * Conduct Exploratory Data Analysis (EDA) to identify trends in ratings, genres, and viewer preferences
-
 * Visualize findings through graphs and statistical summaries
 
 __How to Run the Project__
 
 1. Clone the repository:
-
-git clone https://github.com/RaviSharma1901/Module-2
-
+     git clone https://github.com/RaviSharma1901/Module-2
 2. Install dependencies:
-
-pip install pandas requests beautifulsoup4 matplotlib seaborn
-
+     pip install pandas requests beautifulsoup4 matplotlib seaborn
 3. Run
-
-Numerical_Programming_in_Python_Web_Scraping.ipynb in Jupyter Notebook to execute scraping and analysis
+     Numerical_Programming_in_Python_Web_Scraping.ipynb in Jupyter Notebook to execute scraping and analysis
 
 __View Project on GitHub__
 
