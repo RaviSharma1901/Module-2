@@ -46,6 +46,6 @@ __How to Run the Project__
         jupyter notebook Numerical_Programming_in_Python_Web_Scraping.ipynb
 
 __Contact__    
-* Email:[ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)   
+* Email: [ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)   
 * [LinkedIn](https://www.linkedin.com/in/ravi-sharma-ab8ba17a/)
 * [Github Profile](https://github.com/RaviSharma1901)   
