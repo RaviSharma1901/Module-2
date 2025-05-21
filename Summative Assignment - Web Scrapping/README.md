@@ -33,15 +33,18 @@ __Key Findings__
 
 
 __How to Run the Project__        
-* Clone the repository:   
+* Clone the repository:
+  
         git clone https://github.com/RaviSharma1901/Module-2
-        cd " Summative Assignment - Web Scrapping"
-* Install dependencies:    
+        cd Module-2/" Summative Assignment - Web Scrapping"
+* Install dependencies:
+  
         pip install -r requirements.txt
-* Run:    
+* Run:
+  
         jupyter notebook Numerical_Programming_in_Python_Web_Scraping.ipynb
 
 __Contact__        
-Email:[ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/ravi-sharma-ab8ba17a/)
-[Github](https://github.com/RaviSharma1901)
+Email:[ravisharma1901@gmail.com](mailto:ravisharma1901@gmail.com)        
+[LinkedIn](https://www.linkedin.com/in/ravi-sharma-ab8ba17a/)        
+[Github Profile](https://github.com/RaviSharma1901)        
