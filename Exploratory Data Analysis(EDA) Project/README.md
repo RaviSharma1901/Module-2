@@ -46,7 +46,7 @@ __How to Run the Project__
        pip install -r requirements.txt
 * Run:
   
-      jupyter notebookHotel_Booking_Analysis.ipynb
+      jupyter notebook Hotel_Booking_Analysis.ipynb
 
 __Future Work__
 * Develop a predictive model for booking cancellations using machine learning techniques.
