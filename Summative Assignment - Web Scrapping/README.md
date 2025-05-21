@@ -20,17 +20,17 @@ __Technologies Used__
 * **Matplotlib & Seaborn** – Data visualization
 
 __Objectives & Analysis__    
-* Scrape **movie and TV show data** from entertainment websites  
+* Scrape **movie and TV show data** from *https://www.justwatch.com/* websites  
 * Process & clean **raw data** for structured analysis  
 * Conduct **Exploratory Data Analysis (EDA)** to identify trends in **ratings, genres, and viewer preferences**  
 * **Visualize findings** through graphs & statistical summaries  
 
-__Key Findings__
-* Action and Drama are the dominant genres, comprising 45% of all content analyzed
-* TV shows released between 2018-2022 showed 28% higher viewer ratings than movies from the same period
-* Content with 8+ IMDB ratings shows strong correlation (0.73) with higher viewer engagement
-* Streaming platforms produced 35% more original content in 2022 compared to 2021
-
+__Key Findings__     
+* __Streaming Platform Dominance:__ Amazon Prime Video (51 titles) and Netflix (45 titles) lead the market, collectively hosting 32% of all analyzed content    
+* __Genre Popularity:__ Drama is the most prevalent genre with 142 titles, followed by Mystery & Thriller (97) and Action & Adventure (73)    
+* __Rating Differences:__ TV shows have significantly higher average IMDB ratings (7.84) compared to movies (6.95)    
+* __Content Distribution:__ The top 5 genres (Drama, Mystery & Thriller, Action & Adventure, Crime, Comedy) represent 65% of all available content    
+* __Platform Specialization:__ While mainstream platforms dominate in quantity, niche services like Crunchyroll and Anime Times show genre-specific content focus    
 
 __How to Run the Project__        
 * Clone the repository:
