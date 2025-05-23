@@ -39,8 +39,11 @@ __How to Run the Project__
 * Clone the repository which contains multiple projects:
             
        git clone https://github.com/RaviSharma1901/Module-2/
-                  
-       cd Module-2/"Exploratory Data Analysis(EDA) Project"         
+
+       cd "Module-2\Exploratory Data Analysis(EDA) Project"   # PowerShell (Windows)
+
+       cd "Module-2/Exploratory Data Analysis(EDA) Project"   # (Linux/MacOS)
+         
 * Install necessary libraries:
   
        pip install -r requirements.txt
