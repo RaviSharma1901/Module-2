@@ -26,6 +26,6 @@ Module-2/
 │   ├── Hotel_Booking_Analysis.ipynb  
 │   ├── requirements.txt   
 │   ├── README.md   
-│
+│                                                  
 │── README.md (Main repository overview)
 
